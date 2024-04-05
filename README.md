@@ -1,2 +1,2 @@
 # tiqets.github.io
-root
+##SUBDOMAIN TAKEOVER BY TJ
